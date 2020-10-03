@@ -253,6 +253,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [idea](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Evernote client.
 - [Taskwarrior](http://taskwarrior.org) - Manage your TODO list from your command-line.
+- [dstask](https://github.com/naggie/dstask/) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task 
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the terminal.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
